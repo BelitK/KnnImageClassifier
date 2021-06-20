@@ -1,0 +1,7 @@
+
+ppython:S117"YRename this local variable "allFiles" to match the regular expression ^[_a-z][a-z0-9_]*$.(É£Þƒ
+jpython:S117"SRename this parameter "dirName" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚¤Ùæ
+ppython:S117"YRename this local variable "fullPath" to match the regular expression ^[_a-z][a-z0-9_]*$.(…˜×Å
+wpython:S117"[Rename this local variable "listOfFile" to match the regular expression ^[_a-z][a-z0-9_]*$.(Óê¼çüÿÿÿÿ
+lpython:S1542"TRename function "getListOfFiles" to match the regular expression ^[a-z_][a-z0-9_]*$.(‚¤Ùæ
+6python:S125="Remove this commented out code.(ËˆÛŠ
